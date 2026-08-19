@@ -1,0 +1,24 @@
+{
+    "inventario": [
+        {
+            "nome": "ff",
+            "quantidade_atual": 11,
+            "local_deposito": "deposito d",
+            "historico": [
+                [
+                    "03/05/2026 20:41",
+                    "RETIRADA",
+                    12,
+                    "gustavo"
+                ]
+            ]
+        },
+        {
+            "nome": "rr",
+            "quantidade_atual": 23,
+            "local_deposito": "deposito d",
+            "historico": []
+        }
+    ],
+    "lixeira": []
+}
