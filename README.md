@@ -1,2 +1,2 @@
 # Sistema-de-Gest-o-de-Invent-rio-Fool-of-a-Took-LTDA-
-A Python-based CLI application for inventory management and data persistence, developed as part of a Technology Information Management curriculum. Focuses on structured data, process efficiency, and automation./
+An inventory management project developed in Python to automate administrative routines. This is an ongoing practical project where I apply the core programming logic and data management fundamentals I am learning during my IT Management degree.
